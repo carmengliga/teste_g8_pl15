@@ -17,7 +17,7 @@ public class Simulacao {
      * Aceleração da gravidade (m/s²): 9.8 m/s², a apontar para baixo
      * (por isso o valor é negativo).
      */
-    public static final double GRAVIDADE = 0.0;
+    public static final double GRAVIDADE = -9.8;
     /**
      * Coeficiente de restituição: fração da velocidade que a bola mantém
      * quando ressalta no chão (85% da velocidade).
